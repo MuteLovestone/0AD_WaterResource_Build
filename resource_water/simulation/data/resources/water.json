@@ -1,0 +1,12 @@
+{
+	"code": "water",
+	"name": "Water",
+	"order": 5,
+	"subtypes": {
+		"fresh": "Fresh Water",
+		"salt": "Salt Water",
+		"dirty": "Dirty Water"
+	},
+	"truePrice": 100,
+	"aiAnalysisInfluenceGroup": "ignore"
+}

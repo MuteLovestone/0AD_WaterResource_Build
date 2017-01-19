@@ -1,0 +1,9 @@
+{
+	"name": "resource_water",
+	"version": "0.0.21.1",
+	"label": "Water Resource",
+	"url": "github.com/0ADMods/resource__water",
+	"description": "Adds water as a usable resource in 0AD.",
+	"dependencies": ["0ad>=0.0.22"],
+	"type": "GUI Resource"
+}
